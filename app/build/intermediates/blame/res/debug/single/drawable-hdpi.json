@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_left.png",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\drawable-hdpi\\button_left.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\paintbrush1.png",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\drawable-hdpi\\paintbrush1.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\brush.png",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\drawable-hdpi\\brush.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cursor.png",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\drawable-hdpi\\cursor.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_right.png",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\drawable-hdpi\\button_right.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\floodfill.png",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\drawable-hdpi\\floodfill.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_start_record.png",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\drawable-hdpi\\button_start_record.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\colorpicker.png",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\drawable-hdpi\\colorpicker.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_stop_record.png",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\drawable-hdpi\\button_stop_record.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cursor1.png",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\drawable-hdpi\\cursor1.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plusminus.png",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\drawable-hdpi\\plusminus.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_record.png",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\drawable-hdpi\\button_record.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menucursor.png",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\drawable-hdpi\\menucursor.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_paused.png",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\drawable-hdpi\\button_paused.png"
+    }
+]

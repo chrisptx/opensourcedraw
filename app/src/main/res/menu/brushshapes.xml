@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<group android:id="@+id/group_popupmenu">
+
+    	<item android:id="@+id/menu_squares"
+        	android:title="@string/menu_squares"
+        	android:orderInCategory="100"
+        	android:showAsAction="never" />
+
+    	<item android:id="@+id/menu_circles"
+        	android:title="@string/menu_circles"
+        	android:orderInCategory="200"
+        	android:showAsAction="never" />
+        	
+	</group>
+	
+</menu>

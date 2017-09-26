@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="5dp">
+    
+    <LinearLayout
+        android:layout_height="300dp"
+        android:layout_width="match_parent">
+
+		<ScrollView
+    		android:id="@+id/scroller"
+    		android:layout_width="match_parent"
+    		android:layout_height="match_parent"
+    		android:fillViewport="true" >
+    		        
+			<HorizontalScrollView 
+   				android:id="@+id/hview" 
+    			android:layout_width="wrap_content" 
+    			android:layout_height="wrap_content">
+    			    		        
+				<TableLayout
+					android:id="@+id/filetable"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content" >
+
+				</TableLayout>
+				
+			</HorizontalScrollView>
+			
+		</ScrollView>
+
+	</LinearLayout>
+
+    <LinearLayout
+        android:layout_height="100dp"
+        android:layout_width="match_parent"
+		android:gravity="center">
+
+		<Button
+			android:id="@+id/button_save"
+    		android:layout_width="0px"
+    		android:layout_height="50dp"
+    		android:text=" Save "
+			android:layout_gravity="bottom"
+			android:layout_weight="1"
+			android:gravity="center" />
+
+        	<TextView
+				android:layout_width="10dp"
+				android:layout_height="wrap_content"
+				android:gravity="center" />
+
+		<Button
+			android:id="@+id/button_cancel"
+    		android:layout_width="0px"
+    		android:layout_height="50dp"
+    		android:text=" Cancel "
+			android:layout_gravity="bottom"
+			android:gravity="center"
+			android:layout_weight="1" />
+
+	</LinearLayout>
+
+</LinearLayout>

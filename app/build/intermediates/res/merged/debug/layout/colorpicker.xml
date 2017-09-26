@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/myScreen">
+
+        <TextView
+                android:id="@+id/colorbar"
+                android:layout_width="fill_parent"
+                android:layout_height="70dp"
+                android:text=" " />
+
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="15dp"
+                android:text=" " />
+
+		<TableLayout
+            android:id="@+id/colortable"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			
+			<TableRow
+				android:gravity="center"
+				android:layout_gravity="center"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content">
+
+		        <TextView
+        	        android:layout_width="20px"
+            	    android:layout_height="15dp"
+                	android:text=" " />
+                
+		        <TextView
+        	        android:layout_width="200px"
+            	    android:layout_height="wrap_content"
+                	android:layout_marginLeft="10dp"
+                	android:text="Red Amount"/>
+
+		        <TextView
+        	        android:layout_width="20px"
+            	    android:layout_height="15dp"
+                	android:text=" " />
+                
+		        <TextView
+        	        android:layout_width="200px"
+            	    android:layout_height="wrap_content"
+                	android:layout_marginLeft="10dp"
+                	android:text="Green Amount"/>
+
+		        <TextView
+        	        android:layout_width="20px"
+            	    android:layout_height="15dp"
+                	android:text=" " />
+                
+		        <TextView
+        	        android:layout_width="200px"
+            	    android:layout_height="wrap_content"
+                	android:layout_marginLeft="10dp"
+                	android:text="Blue Amount"/>
+
+		        <TextView
+        	        android:layout_width="20px"
+            	    android:layout_height="15dp"
+                	android:text=" " />
+
+			</TableRow>
+
+			<TableRow
+				android:gravity="center"
+				android:layout_gravity="center"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content">
+
+		        <TextView
+        	        android:layout_width="20px"
+            	    android:layout_height="15dp"
+                	android:text=" " />
+
+        		<SeekBar
+                	android:id="@+id/mySeekingBar_R"
+                	android:layout_width="200px"
+                	android:layout_height="wrap_content"
+                	android:layout_marginLeft="15dp"
+                	android:layout_marginRight="15dp"
+                	android:max="255"
+                	android:progress="0"/>
+
+		        <TextView
+        	        android:layout_width="20px"
+            	    android:layout_height="15dp"
+                	android:text=" " />
+
+        		<SeekBar
+                	android:id="@+id/mySeekingBar_G"
+                	android:layout_width="200px"
+                	android:layout_height="wrap_content"
+                	android:layout_marginRight="15dp"
+                	android:layout_marginLeft="15dp"
+                	android:max="255"
+                	android:progress="0"/>
+
+		        <TextView
+        	        android:layout_width="20px"
+            	    android:layout_height="15dp"
+                	android:text=" " />
+
+        		<SeekBar
+                	android:id="@+id/mySeekingBar_B"
+                	android:layout_width="200px"
+                	android:layout_marginLeft="15dp"
+                	android:layout_marginRight="15dp"
+                	android:layout_height="wrap_content"
+                	android:max="255"
+                	android:progress="0"/>
+
+		        <TextView
+        	        android:layout_width="20px"
+            	    android:layout_height="15dp"
+                	android:text=" " />
+
+			</TableRow>
+
+		</TableLayout>
+		
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"
+                android:text=" " />
+
+		<TableLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+			
+			<TableRow
+				android:gravity="center"
+				android:layout_gravity="center"
+				android:layout_width="fill_parent"
+				android:weightSum="20"
+				android:layout_height="wrap_content">
+			
+				<Button
+            		android:id="@+id/button_save"
+					android:layout_width="0px"
+					android:layout_weight="5"
+					android:layout_height="50dp"
+					android:gravity="center"
+					android:layout_gravity="center"
+					android:text=" Save " />
+
+		        <TextView
+        	        android:layout_width="20px"
+            	    android:layout_height="15dp"
+					android:layout_weight="1"
+                	android:text=" " />
+			
+				<Button
+            		android:id="@+id/button_cancel"
+					android:layout_width="0px"
+					android:layout_weight="5"
+					android:layout_height="50dp"
+					android:gravity="center"
+					android:layout_gravity="center"
+					android:text=" Cancel " />
+
+			</TableRow>
+			
+		</TableLayout>
+		
+</LinearLayout>

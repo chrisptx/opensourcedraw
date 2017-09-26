@@ -1,0 +1,192 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_colorbox"
+        android:title="@string/menu_colorbox"
+        android:orderInCategory="10"
+        android:showAsAction="always" />
+
+    <item android:id="@+id/menu_record"
+        android:title="@string/menu_record"
+        android:icon="@drawable/button_start_record"
+        android:orderInCategory="15"
+        android:showAsAction="always" />
+
+	<item android:id="@+id/menu_revert"
+   		android:title="@string/menu_revert"
+   		android:icon="@android:drawable/ic_menu_revert"
+   		android:orderInCategory="20"
+   		android:enabled="true"
+   		android:visible="true"
+   		android:showAsAction="always" />
+
+	<item android:id="@+id/menu_rotateoffset"
+   		android:title="@string/menu_rotateoffset"
+   		android:icon="@android:drawable/ic_menu_rotate"
+   		android:orderInCategory="25"
+   		android:showAsAction="always" />
+
+   	<item android:id="@+id/menu_brushsettings"
+   		android:title="@string/menu_brushsettings"
+   		android:icon="@drawable/brush"
+   		android:orderInCategory="30"
+   		android:showAsAction="always" >
+		<menu>
+    		<item android:id="@+id/menu_transparency"
+        		android:title="@string/menu_transparency"
+        		android:orderInCategory="32"
+        		android:showAsAction="never" />
+
+    		<item android:id="@+id/menu_brushshapes"
+        		android:title="@string/menu_brushshapes"
+        		android:orderInCategory="32"
+        		android:showAsAction="never">
+
+				<menu>
+					<group android:checkableBehavior="single">
+						<item android:id="@+id/menu_squares"
+    	    				android:title="@string/menu_squares"
+   	    					android:orderInCategory="35"
+   	    					android:checked="true"
+        					android:showAsAction="never" />
+
+		    			<item android:id="@+id/menu_circles"
+        					android:title="@string/menu_circles"
+        					android:orderInCategory="40"
+        					android:showAsAction="never" />
+
+    					<item android:id="@+id/menu_triangles"
+        					android:title="@string/menu_triangles"
+        					android:orderInCategory="42"
+        					android:showAsAction="never" />
+        			</group>
+        		</menu>
+        	</item>
+
+			<group android:checkableBehavior="single">
+	    		<item android:id="@+id/menu_brushsolid"
+    	    		android:title="@string/menu_brushsolid"
+        			android:orderInCategory="45"
+        			android:showAsAction="never" />
+
+    			<item android:id="@+id/menu_brushoutline"
+        			android:title="@string/menu_brushoutline"
+        			android:orderInCategory="50"
+        			android:showAsAction="never" />
+        	</group>
+
+    		<item android:id="@+id/menu_brushwidth"
+        		android:title="@string/menu_brushwidth"
+        		android:orderInCategory="55"
+        		android:showAsAction="never" />
+
+    		<item android:id="@+id/menu_strokewidth"
+        		android:title="@string/menu_strokewidth"
+        		android:orderInCategory="57"
+        		android:showAsAction="never" />
+
+		    <item android:id="@+id/menu_pickcolor"
+        		android:title="@string/menu_pickcolor"
+        		android:orderInCategory="60"
+        		android:showAsAction="never" />
+
+	   		<item android:id="@+id/menu_cancel"
+   				android:title="@string/menu_cancel"
+				android:orderInCategory="65"
+				android:showAsAction="never" />
+        </menu>
+    </item>
+
+    <item android:id="@+id/menu_pickbgcolor"
+        android:title="@string/menu_pickbgcolor"
+        android:icon="@drawable/colorpicker"
+        android:orderInCategory="126"
+        android:showAsAction="always" />
+
+    <item android:id="@+id/menu_floodfill"
+        android:title="@string/menu_floodfill"
+        android:icon="@drawable/floodfill"
+        android:orderInCategory="127"
+        android:showAsAction="always" />
+
+    <item android:id="@+id/menu_cursorsettings"
+   		android:title="@string/menu_cursorsettings"
+   		android:icon="@drawable/menucursor"
+   		android:orderInCategory="128"
+   		android:showAsAction="always">
+
+		<menu>
+			<item android:id="@+id/menu_setcursorblack"
+   				android:title="@string/menu_setcursorblack"
+    			android:checkable="true"
+   				android:orderInCategory="350"
+   				android:showAsAction="never" />
+
+			<item android:id="@+id/menu_setcursorwhite"
+   				android:title="@string/menu_setcursorwhite"
+    			android:checkable="true"
+   				android:orderInCategory="400"
+   				android:showAsAction="never" />
+
+			<item android:id="@+id/menu_setcursorarrow"
+   				android:title="@string/menu_setcursorarrow"
+   				android:orderInCategory="405"
+   				android:visible="false"
+   				android:showAsAction="never" />
+
+			<item android:id="@+id/menu_setcursoroffset"
+   				android:title="@string/menu_setcursoroffset"
+   				android:orderInCategory="407"
+   				android:showAsAction="never" />
+
+	   		<item android:id="@+id/menu_cancel"
+   				android:title="@string/menu_cancel"
+				android:orderInCategory="408"
+				android:showAsAction="never" />
+		</menu>
+	</item>
+
+    <item android:id="@+id/menu_settings"
+       	android:title="@string/menu_settings"
+       	android:orderInCategory="135"
+       	android:showAsAction="never">
+		<menu>
+    		<item android:id="@+id/menu_recordoffonup"
+    			android:checkable="true"
+   	    		android:title="@string/menu_recordoffonup"
+       			android:orderInCategory="140"
+       			android:showAsAction="never" />
+
+    		<item android:id="@+id/menu_showcursorpos"
+    			android:checkable="true"
+   	    		android:title="@string/menu_showcursorpos"
+       			android:orderInCategory="145"
+       			android:showAsAction="never" />
+        </menu>
+    </item>
+
+    <item android:id="@+id/menu_clear"
+        android:title="@string/menu_clear"
+        android:orderInCategory="500"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/menu_save"
+        android:title="@string/menu_save"
+        android:orderInCategory="550"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/menu_send"
+        android:title="@string/menu_send"
+        android:orderInCategory="600"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/menu_about"
+        android:title="@string/menu_about"
+        android:orderInCategory="900"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/menu_exit"
+        android:title="@string/menu_exit"
+        android:orderInCategory="950"
+        android:showAsAction="never" />
+
+</menu>

@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">FreeDraw</string>
+    <string name="menu_clear">Clear Canvas</string>
+    <string name="menu_about">About FreeDraw</string>
+    <string name="menu_squares">Square Brush</string>
+    <string name="menu_circles">Circle Brush</string>
+    <string name="menu_triangles">Triangle Brush</string>
+    <string name="menu_save">Save Image</string>
+    <string name="menu_saveas">Save Image As</string>
+    <string name="menu_colorbox">Current Color</string>
+    <string name="menu_brushwidth">Brush Width</string>
+    <string name="menu_strokewidth">Stroke Width</string>
+    <string name="menu_brushsettings">Brush Settings</string>
+    <string name="menu_brushshapes">Brush Shapes</string>
+    <string name="menu_brushsolid">Solid Brush</string>
+    <string name="menu_brushoutline">Outline Brush</string>
+    <string name="menu_send">Share Image</string>
+    <string name="menu_revert">Undo</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_file">File</string>
+    <string name="menu_floodfill">Flood Fill</string>
+    <string name="menu_load">Load Image</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_cancel">Cancel</string>
+    <string name="menu_cursorsettings">Cursor Settings</string>
+    <string name="menu_transparency">Brush Transparency</string>
+    <string name="menu_setcursor">Set Cursor</string>
+    <string name="menu_setcursorblack">Black Cursor</string>
+    <string name="menu_setcursorwhite">White Cursor</string>
+    <string name="menu_setcursoroffset">Cursor Offset</string>
+    <string name="menu_setcursorarrow">Arrow Cursor</string>
+    <string name="menu_setoffset">Set Offsets</string>
+    <string name="menu_rotateoffset">Change Cursor Offset</string>
+    <string name="menu_delete">Delete Image</string>
+    <string name="menu_showcursorpos">Show Cursor Position in Titlebar</string>
+    <string name="menu_record">Record On/Off</string>
+    <string name="menu_changewidth">Brush Width</string>
+    <string name="menu_pickcolor">Brush Color</string>
+    <string name="menu_pickbgcolor">Colorpicker</string>
+    <string name="menu_recordoffonup">Stop Recording on Finger Up</string>
+    <string name="brushwidth">Brush Width (in pixels)</string>
+    <string name="strokewidth">Stroke Width (in pixels)</string>
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="mesgbox_text">Cancel</string>
+    <string name="button_okay">Okay</string>
+    <string name="title_activity_main">FreeDraw</string>
+
+</resources>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\colorpickerold.xml",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\layout\\colorpickerold.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mesgbox.xml",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\layout\\mesgbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\colorpicker.xml",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\layout\\colorpicker.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\savefile.xml",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\layout\\savefile.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\strokewidthpicker.xml",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\layout\\strokewidthpicker.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loadfile.xml",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\layout\\loadfile.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alphapicker.xml",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\layout\\alphapicker.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\offsetpicker.xml",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\layout\\offsetpicker.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widthpicker.xml",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\layout\\widthpicker.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\colorpickernew.xml",
+        "source": "C:\\Users\\chris\\StudioProjects\\OpenSourceDraw\\app\\src\\main\\res\\layout\\colorpickernew.xml"
+    }
+]

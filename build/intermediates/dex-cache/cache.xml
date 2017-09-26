@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\chris\StudioProjects\OpenSourceDraw\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2a28ed0d2a51d0368f7c4dfa27f3bc9d9e60cbed">
+        <dex dex="C:\Users\chris\StudioProjects\OpenSourceDraw\app\build\intermediates\pre-dexed\debug\instant-run_a15998856c3bc0a05812c798773153f4e042ac28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chris\StudioProjects\OpenSourceDraw\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="59284b2638da05d8fc80afe009abd857539e0309">
+        <dex dex="C:\Users\chris\StudioProjects\OpenSourceDraw\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b30f1d52c8198aa8f4ccca9ed115f99bedfdddfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chris\Documents\AndroidStudioSDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\chris\StudioProjects\OpenSourceDraw\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_421cdf852dfa432bab4972c0b48f8046f286edf3.jar" />
+    </item>
+
+</items>
